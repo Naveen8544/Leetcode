@@ -17,6 +17,7 @@ Leetcode Solution
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Naveen8544/Leetcode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Naveen8544/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/Naveen8544/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Naveen8544/Leetcode/tree/master/0283-move-zeroes) |
 | [0724-find-pivot-index](https://github.com/Naveen8544/Leetcode/tree/master/0724-find-pivot-index) |
@@ -33,11 +34,13 @@ Leetcode Solution
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Naveen8544/Leetcode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Naveen8544/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/Naveen8544/Leetcode/tree/master/0283-move-zeroes) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Naveen8544/Leetcode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Naveen8544/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/Naveen8544/Leetcode/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
