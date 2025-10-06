@@ -8,6 +8,7 @@ Leetcode Solution
 | ------- |
 | [0050-powx-n](https://github.com/Naveen8544/Leetcode/tree/master/0050-powx-n) |
 | [0268-missing-number](https://github.com/Naveen8544/Leetcode/tree/master/0268-missing-number) |
+| [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Naveen8544/Leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [3227-find-missing-and-repeated-values](https://github.com/Naveen8544/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Recursion
 |  |
